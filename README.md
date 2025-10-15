@@ -135,19 +135,15 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 <div align="center">
 
 ## 📊 GitHub Analytics
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=andreaonweb&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
+</div>
 
-<table>
-<tr>
-<td width="100%" align="center">
+<br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=andreaonweb&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
-
-</td>
-<td width="100%" align="center">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaonweb&theme=midnight-purple&hide_border=true&border_radius=15&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
-
-</td>
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=andreaonweb&theme=midnight-purple&hide_border=true&border_radius=15&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
+</div>
 </tr>
 </table>
 
