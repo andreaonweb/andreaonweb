@@ -65,7 +65,8 @@ Estoy explorando el mundo del código con mucho entusiasmo, creatividad y ganas 
 📫 **Contacto**  
 - GitHub: [@andreaonweb](https://github.com/andreaonweb)  
 - Email: andreaonweb.dev@gmail.com
-- Linkedin: [@andreaonweb](www.linkedin.com/in/andrea-olivera-romero-x)  
+- LinkedIn: [andrea-olivera-romero-x](https://www.linkedin.com/in/andrea-olivera-romero-x)
+
 
 ✨ Gracias por visitar mi perfil, ¡esto es solo el comienzo! :)
 
