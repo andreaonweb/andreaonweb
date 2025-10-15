@@ -1,49 +1,75 @@
-¡Hola! Soy Andrea, estudiante de desarrollo **Fullstack + Inteligencia Artificial**.  
-Estoy explorando el mundo del código con mucho entusiasmo, creatividad y ganas de construir proyectos de todo tipo.
+<h1 align="center">👋 ¡Hola! Soy Andrea</h1>
+<h3 align="center">Desarrolladora Fullstack + Inteligencia Artificial 🚀 | UX/UI & Code Enthusiast</h3>
+
+---
+
+## 💡 Sobre mí
+
+Soy estudiante de desarrollo **Fullstack + Inteligencia Artificial**, explorando el mundo del código con entusiasmo, creatividad y muchas ganas de construir proyectos diversos.  
+Me apasiona combinar diseño, lógica y tecnología para crear experiencias digitales con propósito. ✨
+
+---
 
 ## 🎨 UX / UI Design
-- 🎯 **Figma**  
-- 🧩 **Diseño basado en componentes**  
+- 🎯 **Figma**
+- 🧩 **Diseño basado en componentes**
 - ⚛️ **Atomic Design**
 
 ---
 
 ## 🌐 Frontend
-- 🧱 **HTML5 / CSS3 / Flexbox / Media Queries**  
-- ⚙️ **JavaScript (ES6+)**  
-- 🧭 **Manipulación del DOM**  
+- 🧱 **HTML5 / CSS3 / Flexbox / Media Queries**
+- ⚙️ **JavaScript (ES6+)**
+- 🧭 **Manipulación del DOM**
 - ⚛️ **React / React Router DOM / Props & States / CSS Modules**
 
 ---
 
 ## ⚙️ Backend
-- ☕ **Java / POO**  
-- 🌱 **Spring Boot / Spring Data JPA / Spring Security**  
-- 🔗 **REST API / HTTP / Postman**  
-- 🔒 **JWT**  
+- ☕ **Java / POO**
+- 🌱 **Spring Boot / Spring Data JPA / Spring Security**
+- 🔗 **REST API / HTTP / Postman**
+- 🔒 **JWT**
 - 🧩 **Arquitectura MVC / DAO / 3 capas / Inyección de dependencias**
 
 ---
 
 ## 🗄️ Bases de Datos
-- 🧮 **H2 / PostgreSQL**  
+- 🧮 **H2 / PostgreSQL**
 - 🧠 **Normalización / Relaciones entre tablas**
 
 ---
 
 ## 🧠 Metodologías y Herramientas
-- 📅 **Scrum / Kanban**  
-- 🧰 **Git / GitHub / Gitflow**  
-- 🧪 **Testing / TDD**  
+- 📅 **Scrum / Kanban**
+- 🧰 **Git / GitHub / Gitflow**
+- 🧪 **Testing / TDD**
 - 🏗️ **Arquitectura de Software**
 
 ---
 
-## 🚀 Proyectos y Experiencia
-- 💡 **10 proyectos (individuales y grupales)**  
-- ⚡ **Hackaton F5**  
-- 🎓 **Proyecto pedagógico final**  
-- 🤖 **Módulo de Inteligencia Artificial**
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|-----------|--------------|-------|
+| [**Virtual Pet**](https://github.com/andreaonweb/Virtual-Pet) | Interactúa con tu pet virtual | React, Vite, Bootstrap |
+| [**RecuerdaMed**](https://github.com/andreaonweb/RecuerdaMed-FrontEnd) | Organiza tu medicación | React.js, Tailwind CSS, Vite, Axios, Vitest |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreaonweb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreaonweb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaonweb&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -62,11 +88,24 @@ Estoy explorando el mundo del código con mucho entusiasmo, creatividad y ganas 
 
 ---
 
-📫 **Contacto**  
-- GitHub: [@andreaonweb](https://github.com/andreaonweb)  
-- Email: andreaonweb.dev@gmail.com
-- LinkedIn: [andrea-olivera-romero-x](https://www.linkedin.com/in/andrea-olivera-romero-x)
+## 🌈 Separador animado
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreaonweb/andreaonweb/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
+---
 
-✨ Gracias por visitar mi perfil, ¡esto es solo el comienzo! :)
+## 📫 Contacto
+
+- 💌 **Email:** [andreaonweb.dev@gmail.com](mailto:andreaonweb.dev@gmail.com)  
+- 💼 **LinkedIn:** [Andrea Olivera Romero](https://www.linkedin.com/in/andrea-olivera-romero-x)  
+- 🖥️ **GitHub:** [andreaonweb](https://github.com/andreaonweb)
+
+---
+
+<p align="center">✨ Gracias por visitar mi perfil, ¡esto es solo el comienzo! 💫</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
