@@ -13,10 +13,11 @@ jobs:
         with:
           github_user_name: andreaonweb
           outputs: dist/github-contribution-grid-snake.svg
-      - name: Push generated snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- name: Push generated snake
+  uses: crazy-max/ghaction-github-pages@v4
+  with:
+    target_branch: output
+    build_dir: dist
+    commit_message: "🐍 update snake animation"
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
