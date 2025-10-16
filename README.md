@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Andrea
+# 🧙 ¡No puedes pasar… el README sin leerlo!
 
-### Desarrolladora Fullstack + Inteligencia Artificial | UX/UI & Code Enthusiast
+### Soy Andrea, desarrolladora Fullstack + Inteligencia Artificial | UX/UI & Code Enthusiast
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -258,7 +258,7 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ✨ Gracias por visitar mi perfil, ¡esto es solo el comienzo! 💫
+### Casteando Despedida Épica (2.5s de canalización)...🪄
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Keep%20Coding!&fontSize=40&fontColor=fff&animation=twinkling"/>
 
