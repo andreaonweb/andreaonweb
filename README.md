@@ -22,6 +22,21 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 
 <br>
 
+## ✨ Más allá del código
+
+<div align="center">
+
+ Cuando no estoy programando, me encanta explorar otras formas de creatividad y desconexión:
+```yaml
+- 🤘 Fan del metal, rock y punk (especialmente el metalcore)
+- 🎮 Friki de los videojuegos, main draenei paladina en World of Warcraft ⚔️ ¡Por la Alianza!
+- 🌿 Disfruto hacer senderismo, rutas por la montaña y fotografía al aire libre
+- 🍥 Anime & Manga
+```
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 <div align="center">
 
 ## 🛠️ Tech Stack
