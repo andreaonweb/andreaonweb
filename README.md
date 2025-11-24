@@ -116,7 +116,7 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🐾 [Virtual Pet](https://github.com/andreaonweb/Virtual-Pet)
 > Interactúa con tu pet virtual
@@ -126,7 +126,7 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreaonweb&repo=Virtual-Pet&theme=midnight-purple&hide_border=true&border_radius=15)](https://github.com/andreaonweb/Virtual-Pet)
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 💊 [RecuerdaMed](https://github.com/andreaonweb/RecuerdaMed-FrontEnd)
 > Organiza tu medicación
@@ -136,6 +136,20 @@ Me apasiona combinar diseño, lógica y tecnología para crear experiencias digi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreaonweb&repo=RecuerdaMed-FrontEnd&theme=midnight-purple&hide_border=true&border_radius=15)](https://github.com/andreaonweb/RecuerdaMed-FrontEnd)
 
 </td>
+<td width="30%" valign="top">
+
+### 🐶 [The Shire of Paws](https://github.com/TheShireOfPaws/TheShireOfPaws-Frontend)
+> Explora perros en adopción y gestiona solicitudes
+
+**Stack:** React • CSS Modules • Spring Boot • PostgreSQL • Axios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShireOfPaws&repo=TheShireOfPaws-Frontend&theme=midnight-purple&hide_border=true&border_radius=15)](https://github.com/TheShireOfPaws/TheShireOfPaws-Frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheShireOfPaws&repo=TheShireOfPaws-Backend&theme=midnight-purple&hide_border=true&border_radius=15)](https://github.com/TheShireOfPaws/TheShireOfPaws-Backend)
+
+</td>
+
+
 </tr>
 </table>
 
