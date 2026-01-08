@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-Soy estudiante de desarrollo **Fullstack + Inteligencia Artificial**, explorando el mundo del código con entusiasmo, creatividad y muchas ganas de construir proyectos diversos.
+Desarrolladora **Fullstack + Inteligencia Artificial**, explorando el mundo del código con entusiasmo, creatividad y muchas ganas de construir proyectos diversos.
 
 Me apasiona combinar diseño, lógica y tecnología para crear experiencias digitales con propósito. ✨
 
